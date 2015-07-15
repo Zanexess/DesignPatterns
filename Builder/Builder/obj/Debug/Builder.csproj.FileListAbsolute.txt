@@ -1,0 +1,6 @@
+c:\users\edward\documents\visual studio 2012\Projects\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\Edward\documents\visual studio 2012\Projects\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\Edward\documents\visual studio 2012\Projects\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\Edward\documents\visual studio 2012\Projects\Builder\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\Edward\documents\visual studio 2012\Projects\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\Edward\documents\visual studio 2012\Projects\Builder\Builder\obj\Debug\Builder.pdb
