@@ -1,0 +1,5 @@
+c:\users\edward\documents\visual studio 2012\Projects\Singletone\Singletone\bin\Debug\Singletone.exe.config
+c:\users\edward\documents\visual studio 2012\Projects\Singletone\Singletone\bin\Debug\Singletone.exe
+c:\users\edward\documents\visual studio 2012\Projects\Singletone\Singletone\bin\Debug\Singletone.pdb
+c:\users\edward\documents\visual studio 2012\Projects\Singletone\Singletone\obj\Debug\Singletone.exe
+c:\users\edward\documents\visual studio 2012\Projects\Singletone\Singletone\obj\Debug\Singletone.pdb
